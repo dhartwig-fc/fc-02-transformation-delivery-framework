@@ -5,7 +5,7 @@ A portfolio of AI-enabled Financial Crime prototypes demonstrating alert triage,
 The objective of this toolkit is to demonstrate how Artificial Intelligence, Analytics, Workflow Automation and Network Intelligence can transform Financial Crime Operations while maintaining strong governance, explainability and regulatory compliance.
 
 ## Toolkit Components
-# 1. AI-Enabled Investigator Copilot
+## 1. AI-Enabled Investigator Copilot
 (Python Prototype)
 Provides:
 	●	Alert summarisation
@@ -14,7 +14,7 @@ Provides:
 	●	Draft case narratives
 	●	SAR drafting support
 
-# 2. AML Alert Triage Prototype
+## 2. AML Alert Triage Prototype
 (Python Prototype)
 Provides:
 	●	Risk scoring
@@ -33,14 +33,14 @@ A structured catalogue of Financial Crime risk scenarios covering:
 	●	Fraud
 	●	Customer Risk
 
-# 4. Financial Crime Network Analytics
+## 4. Financial Crime Network Analytics
 Provides:
 	●	Entity resolution
 	●	Beneficial ownership mapping
 	●	Hidden relationship detection
 	●	Connected party risk analysis
 
-# 5. Quantexa + AI Integration Blueprint
+## 5. Quantexa + AI Integration Blueprint
 Provides:
 	●	Network analytics integration
 	●	Copilot workflow integration
