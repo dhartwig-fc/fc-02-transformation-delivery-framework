@@ -8,14 +8,14 @@ A portfolio of strategy, governance, architecture, analytics and prototype asset
 # Strategic Vision
 The objective of this toolkit is to demonstrate how Artificial Intelligence, Analytics, Workflow Automation and Network Intelligence can transform Financial Crime Operations while maintaining strong governance, explainability and regulatory compliance.
 
-# Toolkit Components
+## Toolkit Components
 
 | # | Component | Category | Description | Status |
-|---|---|---|---|---|
+|---|------------|------------|-------------|----------|
 | 1 | AI-Enabled Investigator Copilot | Prototype | Alert summarisation, investigator guidance and case documentation support | V1-V3 Complete |
 | 2 | AML Alert Triage Prototype | Prototype | Risk scoring, alert prioritisation and investigator workflow support | Built |
 | 3 | Financial Crime Risk Typology Library | Intelligence | Structured catalogue of AML, TBML, Correspondent Banking and Capital Markets risk scenarios | Draft |
-| 4 | Financial Crime Network Analytics | Analytics | Entity resolution, beneficial ownership and hidden relationship analysis | Planned |
+| 4 | Financial Crime Network Intelligence Library | Analytics | Entity resolution, beneficial ownership, relationship discovery and graph analytics investigation patterns | Active Development |
 | 5 | Correspondent Banking Analytics Toolkit | Analytics | Payment flows, sanctions exposure and nested relationship analysis | Planned |
 | 6 | Trade Finance & TBML Analytics Toolkit | Analytics | Trade-based money laundering detection and trade pattern analysis | Planned |
 | 7 | Capital Markets Surveillance Toolkit | Analytics | Market abuse, insider dealing and surveillance analytics concepts | Planned |
@@ -31,8 +31,7 @@ The objective of this toolkit is to demonstrate how Artificial Intelligence, Ana
 # Financial Crime AI Transformation Toolkit
 
 ---
-
-## Portfolio Architecture
+## Financial Crime AI Transformation Toolkit
 
 ### 🧠 Intelligence Layer
 
@@ -41,27 +40,42 @@ The objective of this toolkit is to demonstrate how Artificial Intelligence, Ana
 ### 📊 Analytics Layer
 
 - AML Alert Triage Prototype
-- Network Analytics
-- Correspondent Banking Analytics
+- Financial Crime Network Intelligence Library
+- Correspondent Banking Analytics Toolkit
+- Trade Finance & TBML Analytics Toolkit
+- Capital Markets Surveillance Toolkit
 
-### 🤖 AI Enablement Layer
+### 🕸️ Network Intelligence Layer
 
-- AI Investigator Copilot
+- Network Investigation Pattern Library (NI001-NI020)
+- Graph Investigation Query Library
+- Entity Resolution Models
+- Relationship Discovery Models
+
+### 🤖 AI Layer
+
+- AI-Enabled Investigator Copilot
 - SAR Narrative Generator
 
-### 🛡️ Governance & Strategy Layer
+### 🏛️ Governance Layer
 
-- AI Governance Framework
+- AI Governance Framework for AML Operations
+
+### 🏗️ Architecture Layer
+
+- Quantexa + AI Integration Blueprint
+- Financial Crime Graph Analytics Reference Architecture
+
+### 📈 Strategy Layer
+
 - Target Operating Model
-- Quantexa + AI Blueprint
+- Business Case & Benefits Realisation Framework
+- Executive Board Presentation
 
 ### 🚀 Delivery Layer
 
-- Backlog & Jira Pack
+- Proof of Concept Backlog & Jira Pack
 
-### 💻 Technical Demonstration Layer
-
-- Python Transaction Analytics Prototype
 ## 1. AI-Enabled Investigator Copilot
 
 | Capability | Description |
