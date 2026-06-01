@@ -224,6 +224,8 @@ The toolkit is structured as a collection of interconnected repositories that co
 
 ## 6. Trade Finance & TBML Analytics Toolkit
 
+The toolkit supports detection of TMBL typologies including Over Invoicing, Under Invoicing, Multiple Invoicing, Phantom Shipping, Carousel Trade, U-Turn payments and Trade-Based Sanction Evasion.
+
 | Capability | Description |
 |------------|-------------|
 | Bill of Lading Analysis | Review shipping documentation anomalies |
