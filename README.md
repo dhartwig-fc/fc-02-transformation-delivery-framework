@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-The Financial Crime Transformation Toolkit is a portfolio of strategy, governance, architecture, analytics and AI assets designed to demonstrate how Financial Crime Operations can be transformed through Network Intelligence, Analytics, Risk Scoring and Artificial Intelligence.
+The Financial Crime Transformation Toolkit is a portfolio of strategy, governance, architecture, intelligence, detection strategy, analytics and AI assets designed to demonstrate how Financial Crime Operations can be transformed through Threat Intelligence, Network Intelligence, Risk Scoring, Advanced Analytics and Artificial Intelligence.
 
 The portfolio contains practical prototypes, investigation frameworks, risk typologies, scoring methodologies and operating model artefacts covering Anti-Money Laundering (AML), Trade-Based Money Laundering (TBML), Correspondent Banking and Capital Markets use cases.
 
@@ -25,7 +25,9 @@ The toolkit is structured as a collection of interconnected repositories that co
 | 5 | Correspondent Banking Analytics Toolkit | Analytics | Payment flows, sanctions exposure and nested relationship analysis | Foundation Complete|
 | 6 | Trade Finance & TBML Analytics Toolkit | Analytics | Trade-based money laundering detection and trade pattern analysis | Active Development |
 | 7 | Capital Markets Surveillance Toolkit | Analytics | Market abuse, insider dealing and surveillance analytics concepts | Planned |
-| 8 | AI Governance Framework for AML Operations | Governance | Governance, controls, explainability and AI risk management framework | Draft |
+| 8 | Emerging Threat Intelligence Repository | Intelligence | Horizon scanning, threat assessment, geopolitical intelligence and future analytical opportunity identification | Active Development |
+| 9 | Detection Strategy Library | Detection Strategy | Threat-to-detection mapping, scenario engineering and control coverage assessment | Planned |
+| 10 | AI Governance Framework for AML Operations | Governance | Governance, controls, explainability and AI risk management framework | Draft |
 | 9 | Target Operating Model (TOM) | Transformation | Future-state operating model for AI-enabled Financial Crime Operations | Draft |
 | 10 | Transformation Roadmap | Transformation | Phased implementation approach and delivery milestones | Draft |
 | 11 | Business Case & Value Framework | Transformation | Benefits realisation, KPI framework and investment justification | Draft |
@@ -43,6 +45,22 @@ The toolkit is structured as a collection of interconnected repositories that co
 - Trade Finance & TBML Typology Library
 - Correspondent Banking Typology Library
 - Capital Markets Surveillance Typology Library
+
+## 🎯 Detection Strategy Layer
+
+- Detection Strategy Library
+- Threat-to-Detection Mapping Framework
+- Detection Coverage Assessment Framework
+- Scenario Engineering Framework
+- Control Gap Analysis
+
+### Purpose
+
+- Translate intelligence into detection requirements
+- Design future monitoring scenarios
+- Assess coverage gaps
+- Prioritise analytical development
+- Connect intelligence to operational controls
 
 ## 📊 Analytics Layer
 
@@ -109,8 +127,58 @@ The toolkit is structured as a collection of interconnected repositories that co
 | fc-02-transformation-toolkit | Strategy, governance, architecture and portfolio management repository | Active |
 | fc-03-network-intelligence-library | Entity resolution, graph analytics and network investigation patterns | Active Development |
 | fc-04-tbml-analytics-toolkit | Trade analytics, TBML typologies, scoring models and risk frameworks | Active Development|
+| fc-07-emerging-threat-intelligence | Horizon scanning, threat assessment and future financial crime risk identification | Active Development |
+| fc-08-detection-strategy-library | Threat-to-detection mapping, scenario engineering and coverage assessment | Planned |
 | fc-prot01-aml-alert-triage | Alert scoring and prioritisation prototype | Complete |
 | fc-prot02-ai-investigator-copilot| AI investigation assistant prototype | Complete |
+
+---
+
+
+# Intelligence Ecosystem
+
+| Source | Primary Purpose |
+|----------|----------|
+| FATF | Global AML priorities and typologies |
+| Europol | Organised crime intelligence |
+| FinCEN | Operational financial intelligence |
+| Wolfsberg Group | Industry best practice |
+| FCA | Supervisory expectations |
+| NCA | UK organised crime intelligence |
+| OFAC | US sanctions intelligence |
+| OFSI | UK sanctions intelligence |
+| Egmont Group | Global FIU intelligence |
+| Transparency International | Corruption intelligence |
+| RUSI | Strategic financial crime research |
+| Geopolitical Monitor | Geopolitical intelligence |
+| OECD | Governance and transparency intelligence |
+| BIS | Financial stability intelligence |
+| World Economic Forum | Strategic foresight |
+| United Nations | International security intelligence |
+
+---
+
+# Intelligence-Led Transformation Model
+
+```text
+External Intelligence
+        ↓
+Threat Assessment
+        ↓
+Detection Strategy
+        ↓
+Analytics Development
+        ↓
+Network Intelligence
+        ↓
+Investigation Workflows
+        ↓
+AI Enablement
+        ↓
+Governance
+        ↓
+Transformation
+```
 
 ---
 
@@ -137,6 +205,8 @@ The toolkit is structured as a collection of interconnected repositories that co
 | Trade Finance & TBML Analytics Toolkit | Trade-Based Money Laundering Detection, Trade Analytics and Risk Scoring | TBML Typology Library, Trade Risk Scoring Framework, Commodity Risk Models, Country & Corridor Risk Models, Behavioural Risk Analytics, Python Analytics Components |
 | AI Investigator Copilot | AI-assisted investigation support capability | Alert Summarisation, Investigation Guidance, Case Documentation Support, SAR Assistance |
 | AML Alert Triage Prototype | Alert prioritisation and investigator workflow support | Risk Scoring, Alert Prioritisation, Investigator Workflow Demonstration |
+| Emerging Threat Intelligence Repository | Horizon scanning, threat assessment and intelligence-led capability development | Intelligence Ecosystem, Threat Catalogue, Threat Prioritisation, Threat Scorecards, Threat-to-Analytics Mapping, Threat-to-AI Mapping, Future Scenarios, Collection Framework |
+| Detection Strategy Library | Translation of intelligence into detection capabilities | Threat-to-Detection Mapping, Detection Coverage Assessment, Scenario Engineering, Control Gap Analysis, Detection Prioritisation |
 
 ---
 
@@ -144,6 +214,8 @@ The toolkit is structured as a collection of interconnected repositories that co
 
 | Strategic Theme | Objective |
 |------------|------------|
+| Emerging Threat Intelligence | Develop horizon scanning, threat assessment and future risk identification capabilities |
+| Detection Strategy | Develop scenario engineering, threat-to-detection mapping and coverage assessment frameworks |
 | Network Intelligence Analytics | Expand NI001–NI020 investigation pattern library |
 | Trade Finance & TBML Analytics | Develop typologies, scoring models and Python analytics |
 | Correspondent Banking Analytics | Build payment flow and nested relationship analytics |
@@ -328,5 +400,3 @@ The toolkit supports detection of TMBL typologies including Over Invoicing, Unde
 * This repository provides an overview of the Financial Crime AI Transformation Toolkit.
 Detailed methodologies, governance frameworks, implementation artefacts, business cases, operating models and supporting documentation are maintained separately and are not publicly distributed.
 Selected materials may be made available upon request.
-
-	
