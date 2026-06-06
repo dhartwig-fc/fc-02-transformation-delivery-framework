@@ -40,8 +40,11 @@ Provides the executive showcase view of the platform, highlighting:
 - Enterprise analytics frameworks
 - Network Intelligence visualisations
 - TBML analytics concepts
+- Corresponding Banking analytics concepts
+- Capital Markets analytics concepts
 - Sanctions analytics concepts
 - Portfolio navigation
+- How it all links into Investigator efficiency through copilot builds and a case management layer
 
 ### fc-02 Transformation & Delivery Framework
 
@@ -297,7 +300,7 @@ Emerging Threat Intelligence provides the strategic input into the transformatio
 | 7 | Capital Markets Surveillance Toolkit | Analytics | Market abuse analytics |
 | 8 | Emerging Threat Intelligence Repository | Intelligence | Horizon scanning and threat assessment |
 | 9 | Detection Strategy Library | Detection Strategy | Threat-to-detection mapping |
-| 10 | AI Governance Framework | Governance | AI governance and controls |
+| 10| AI Governance Framework | Governance | AI governance and controls |
 | 11 | Target Operating Model | Transformation | Future-state operating model |
 | 12 | Transformation Roadmap | Transformation | Delivery planning |
 | 13 | Business Case & Value Framework | Transformation | Benefits and ROI framework |
@@ -310,7 +313,7 @@ Emerging Threat Intelligence provides the strategic input into the transformatio
 
 | Repository | Purpose |
 |------------|----------|
-| fc-01-portfolio-site | Executive showcase and portfolio navigation |
+| fc-01-financial-crime-analytics-showcase| Executive showcase and portfolio navigation |
 | fc-02-transformation-toolkit | Transformation and delivery framework |
 | fc-03-network-intelligence-library | Network analytics and investigation frameworks |
 | fc-04-tbml-analytics-toolkit | Trade analytics and TBML typologies |
