@@ -313,14 +313,22 @@ Emerging Threat Intelligence provides the strategic input into the transformatio
 
 | Repository | Purpose |
 |------------|----------|
+| dan-hartwig-portfolio | Portfolio page website |
+| fc_vision_notes_dhartwig  | Strategy notes and portfolio vision |
 | fc-01-financial-crime-analytics-showcase| Executive showcase and portfolio navigation |
 | fc-02-transformation-toolkit | Transformation and delivery framework |
 | fc-03-network-intelligence-library | Network analytics and investigation frameworks |
 | fc-04-tbml-analytics-toolkit | Trade analytics and TBML typologies |
 | fc-05-sanctions-exposure-analytics-toolkit | Sanctions exposure analytics |
-| fc-06-banking-analytics-toolkit | Banking and correspondent banking analytics |
-| fc-07-emerging-threat-intelligence | Horizon scanning and threat intelligence |
-| fc-08-detection-strategy-library | Threat-to-detection mapping and scenario engineering |
+| fc-06-corresponding-banking-analytics-toolkit | Banking and Correspondent banking analytics |
+| fc-07-capital-markets-analytics-toolkit | Capital Markets and surviellance analytics |
+| fc-08-emerging-threat-intelligence | Horizon scanning and threat intelligence |
+| fc-09-detection-strategy-library | Threat-to-detection mapping and scenario engineering |
+| fc-prot01-aml-alert-triage | AML triage prototype |
+| fc-prot02-ai-investigator-copilot | AI-enabled Investigator Copilot prototype |
+| fc-rm01-ai-transformation-roadmap | Structured AI learning roadmap |
+| fc-rm02-transformation-ai-lab | AI lab building solutions using RAG, Agentic AI, MCP and automation |
+| fc-rm01-ai-transformation-roadmap | Structured AI learning roadmap |
 
 ---
 
