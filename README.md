@@ -425,21 +425,6 @@ The NEXUS rows follow the phases of the public [Platform Roadmap](https://dhartw
 | Next | Operational surface: the investigator workspace, after the test phase |
 | Planned | Detection Strategy Library: one library of detection strategies across all 57 typologies. Its first asset, an emerging-threat typologies register built from the intelligence scans, is in design |
 
-----------|----------|
-| ✅ Complete | Portfolio Website |
-| ✅ Complete | Transformation Framework |
-| ✅ Complete | Showcase build |
-| ✅ Complete | Network Intelligence Library |
-| ✅ Complete | TBML Analytics Toolkit |
-| ✅ Complete | Sanctions Exposure Analytics Toolkit |
-| ✅ Complete | Correspondent Banking Analytics Toolkit |
-| ✅ Complete | Capital Markets Analytics Toolkit |
-| ✅ Live | Emerging Threat Intelligence |
-| 🧪 Test phase | NEXUS platform: Beta v2.2; features frozen 19 October 2026 to about 11 January 2027 |
-| 🚧 In preparation | Governance and assurance pack, including AI governance: 4 of 10 documents drafted for approval |
-| Next | Investigator Workspace operational surface, after the test phase |
-| Planned | Detection Strategy Library |
-
 ---
 
 # Repository Purpose
