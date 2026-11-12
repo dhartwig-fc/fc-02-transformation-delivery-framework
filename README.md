@@ -197,7 +197,7 @@ NEXUS was delivered in fifteen eras. Each era is a run of numbered stages. The s
 
 # Transformation Framework
 
-The assets listed under each discipline are the framework's asset *types*. [Toolkit Components](#toolkit-components) shows where each one exists today.
+The assets listed under each discipline are the framework's asset *types*, not artefacts in this repository. Where one exists today, [Toolkit Components](#toolkit-components) says where.
 
 ## 🧠 Intelligence
 
@@ -243,7 +243,6 @@ Convert threats into analytical and operational requirements.
 - Threat-to-Detection Mapping
 - Scenario Engineering
 - Control Coverage Assessment
-- Quantexa + AI Integration Blueprint
 - Reference Architectures
 
 ---
@@ -389,10 +388,10 @@ This now runs. fc-08 sweeps the sources below on a schedule and turns each advis
 | fc-03-network-intelligence-library | Private | Entity resolution, network intelligence and foundation doctrine |
 | fc-04-tbml-analytics-toolkit | Private | Trade analytics and TBML typologies |
 | fc-05-sanctions-exposure-analytics-toolkit | Private | Sanctions exposure, evasion detection, ownership and maritime analytics |
-| fc-06-correspondent-banking-analytics-toolkit | Public | Correspondent banking analytics |
-| fc-07-capital-markets-analytics-toolkit | Public | Capital markets and surveillance analytics |
-| fc-08-emerging-threat-intelligence | Public | Horizon scanning and threat intelligence |
-| fc-09-detection-strategy-library | Public | Threat-to-detection mapping and scenario engineering (planned; README only) |
+| fc-06-correspondent-banking-analytics-toolkit | Private | Correspondent banking analytics |
+| fc-07-capital-markets-analytics-toolkit | Private | Capital markets and surveillance analytics |
+| fc-08-emerging-threat-intelligence | Private | Horizon scanning and threat intelligence |
+| fc-09-detection-strategy-library | Private | Threat-to-detection mapping and scenario engineering (planned; README only) |
 | fc-10-intelligence-repository-layer | Private | NEXUS core platform: substrate, detection, products, console, operations and the living estate |
 | fc-20-canonical-intelligence-delivery-model | Private | Delivery standard: architecture, operating model, technical specification, interfaces, reference implementation and design rationale |
 | fc-prot01-aml-alert-triage | Public | AML triage prototype |
@@ -404,8 +403,29 @@ This now runs. fc-08 sweeps the sources below on a schedule and turns each advis
 
 # Portfolio Build Roadmap
 
+The NEXUS rows follow the phases of the public [Platform Roadmap](https://dhartwig-fc.github.io/dan-hartwig-portfolio/projects/nexus/platform-roadmap.html), where the live status is kept.
+
 | Status | Initiative |
 |----------|----------|
+| ✅ Complete | Portfolio website |
+| ✅ Complete | Transformation framework (this repository) |
+| ✅ Complete | Analytics showcase (fc-01, June 2026) |
+| ✅ Complete | Analytics toolkits: network intelligence, TBML, sanctions, correspondent banking and capital markets (57 typologies) |
+| ✅ Built | NEXUS intelligence foundation: canonical data model, one shared entity key, the resolved graph |
+| ✅ Built | NEXUS detection and scoring across five crime families, into a ranked alert table |
+| ✅ Built | NEXUS fused investigation: the investigator console; five investigation cases published |
+| ✅ Built | NEXUS operations management: case event log, SAR lifecycle, SLA orchestration, QA oversight, MI |
+| ✅ Built | NEXUS Knowledge Centre: doctrine for all 57 typologies |
+| ✅ Built | NEXUS governed batch at bank scale, and the living estate (running every weekday since 16 October 2026) |
+| ✅ Live | Emerging threat intelligence: 12 sources scanned weekly, owner-approved links into NEXUS |
+| 🧪 Now | Test phase: features frozen 19 October 2026 to about 11 January 2027 |
+| 🚧 In build | Detection tuning: the TM Tuning Studio rebuild |
+| 🚧 In build | Intelligence layer: the copilot case flow is live, template-worded; AI wording awaits approval |
+| 🚧 In preparation | Governance and assurance pack: 4 of 10 documents drafted for approval |
+| Next | Operational surface: the investigator workspace, after the test phase |
+| Planned | Detection Strategy Library: one library of detection strategies across all 57 typologies. Its first asset, an emerging-threat typologies register built from the intelligence scans, is in design |
+
+----------|----------|
 | ✅ Complete | Portfolio Website |
 | ✅ Complete | Transformation Framework |
 | ✅ Complete | Showcase build |
